@@ -1,0 +1,17 @@
+<contact-button type="default-dark" size="20" session-from="weapp"> </contact-button>
+<view class="classname">
+  <form report-submit bindsubmit="mysubmit">
+    物品
+    <input name="thing" type="text" value="123" /> 价格
+    <input name="price" type="text" value="456" />
+    <button formType="submit">提交</button>
+  </form>
+</view>
+<view class="classname">
+  <button bindtap="connect">connect</button>
+  <form bindsubmit="send">
+    <input name="hi"/>
+    <button form-type="submit">send</button>
+  </form>
+  <textarea value="{{message}}" />
+</view>

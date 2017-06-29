@@ -1,0 +1,2 @@
+<button bindtap="get">getUserInfo</button>
+<button bindtap="test">test</button>

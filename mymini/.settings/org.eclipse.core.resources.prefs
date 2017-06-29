@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/springmvc/aes/PKCS7Encoder.java=UTF-8
+encoding//src/com/springmvc/aes/Program.java=UTF-8
+encoding//src/com/springmvc/aes/SHA1.java=UTF-8
+encoding//src/com/springmvc/aes/WXBizMsgCrypt.java=UTF-8
+encoding//src/com/springmvc/aes/WXBizMsgCryptTest.java=UTF-8
+encoding//src/com/springmvc/aes/XMLParse.java=UTF-8
+encoding//src/com/springmvc/util/MessageUtil.java=UTF-8
+encoding//src/com/springmvc/util/SignUtil.java=UTF-8

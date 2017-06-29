@@ -1,0 +1,6 @@
+<button bindtap="uploadImg">上传图片</button>
+<image src="{{imgSrc}}"></image>
+<button bindtap="myrequest">下载</button>
+<text>{{mydata}}</text>
+<image src="{{downloadImg}}"></image>
+<button bindtap="login">login</button>
